@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalNewsletterApi", "EducationalNewsletterApplication\EducationalNewsletterApi.csproj", "{903573D8-E9CB-436D-B1DD-C9AB28023522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalNewsletterWebApp", "EducationalNewsletterWebApp\EducationalNewsletterWebApp.csproj", "{0FBED919-8290-4FF0-B495-9336D48AEADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903573D8-E9CB-436D-B1DD-C9AB28023522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903573D8-E9CB-436D-B1DD-C9AB28023522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903573D8-E9CB-436D-B1DD-C9AB28023522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903573D8-E9CB-436D-B1DD-C9AB28023522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBED919-8290-4FF0-B495-9336D48AEADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBED919-8290-4FF0-B495-9336D48AEADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBED919-8290-4FF0-B495-9336D48AEADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBED919-8290-4FF0-B495-9336D48AEADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78BDE457-5F64-46F2-A4C0-992CAA5570B4}
+	EndGlobalSection
+EndGlobal
